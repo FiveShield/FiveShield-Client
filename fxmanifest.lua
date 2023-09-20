@@ -1,9 +1,9 @@
 fx_version 'cerulean'
 games { 'gta5' }
 
-name 'AGI Link'
-description 'Smart integration with AGI for realtime monitoring and secruity'
-author 'AGI-DEV'
+name 'FiveShield Link'
+description 'Smart integration with FiveShield for realtime monitoring and secruity'
+author 'FiveShield-DEV'
 version 'v0.1.1'
 
 server_scripts {
