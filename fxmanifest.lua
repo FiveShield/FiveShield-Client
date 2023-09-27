@@ -4,7 +4,7 @@ games { 'gta5' }
 name 'FiveShield Link'
 description 'Smart integration with FiveShield for realtime monitoring and security'
 author 'FiveShield'
-version 'v1.0.1'
+version 'v1.0.2'
 
 server_scripts {
 	"server.lua",
